@@ -1,0 +1,17 @@
+{
+    "name": "kkrav/web-push-php-example-master",
+    "autoload": {
+        "psr-4": {
+            "Kkrav\\WebPushPhpExampleMaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kravchenko Konstantin",
+            "email": "k.kravchenko@inits.com.ua"
+        }
+    ],
+    "require": {
+        "minishlink/web-push": "^7.0"
+    }
+}
